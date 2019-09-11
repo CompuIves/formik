@@ -1,3 +1,4 @@
 {
+  "buildScript": false,
   "sandboxes": ["vdvty"]
 }
