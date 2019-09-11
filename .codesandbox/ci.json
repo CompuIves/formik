@@ -1,4 +1,4 @@
 {
-  "buildScript": false,
+  "buildCommand": false,
   "sandboxes": ["vdvty"]
 }
